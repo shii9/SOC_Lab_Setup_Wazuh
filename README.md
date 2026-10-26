@@ -32,11 +32,6 @@ Below is a live search snapshot from the Wazuh Dashboard interface (`Threat Hunt
 | `rule.id: 5402` (Successful sudo to root) | Kali Linux VM | Built-in privilege escalation rule fired with MITRE ATT&CK **T1548.003** mapping |
 | `WIN11-SOC-HOST` Agent Enrolled & Active | Windows 11 Host | Central authentication, TLS certificate exchange, and heartbeat confirmed |
 
-Below is the local validation on the Windows 10 endpoint confirming that the Sysmon operational log channel is active and recording:
-
-[<img src="images/screenshots/windows10-sysmon-local-verification.png" alt="Windows 10 Sysmon Local Verification" width="100%"/>](images/screenshots/windows10-sysmon-local-verification.png)
-
----
 
 ## 🎯 Objectives & Project Scope
 
